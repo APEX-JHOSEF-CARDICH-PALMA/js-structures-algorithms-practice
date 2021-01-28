@@ -2,7 +2,7 @@
 declarativ: Se encarga de detallar la logica del programa, pero no se enfoca en como se hacen las cosas 
 por debajo*/
 
-const { identity } = require("lodash");
+//const { identity } = require("lodash");
 
 //Promesas
 /*
